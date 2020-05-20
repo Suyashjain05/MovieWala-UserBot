@@ -5,19 +5,19 @@ Best User Bot To Manage Your Telegram Account 😉
 ## By Anonymous 
 
 For any query or want to know how it works join
-## https://t.me/Anonymous13
+## https://t.me/MovieWalaa
 
 ## FORK AT YOUR OWN RISK !
 ### Installing
 
 ### The Easy Way
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rachit1313/Rc13gamruserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/suyashjain05/MovieWala-UserBot)
 
 ### The Normal Way
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/Rachit1313/Rc13gamruserbot
+git clone https://github.com/suyashjain05/MovieWala-UserBot
 cd Indianbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
